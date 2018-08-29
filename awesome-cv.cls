@@ -469,7 +469,7 @@
         {}%
         {%
           \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
-          \href{http://\@lattes}{\aiLattes\acvHeaderIconSep\@lattes}%
+          \href{http://\@lattes}{\aiLattesSquare\acvHeaderIconSep\@lattes}%
         }% \aiLattes \faFileText 
       \ifthenelse{\isundefined{\@linkedin}}%
         {}%
@@ -481,7 +481,7 @@
         {}%
         {%
           \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
-          \href{https://github.com/\@github}{\faGithub\acvHeaderIconSep\@github}%
+          \href{https://github.com/\@github}{\faGithubSquare\acvHeaderIconSep\@github}%
         }%
       \ifthenelse{\isundefined{\@gitlab}}%
         {}%
