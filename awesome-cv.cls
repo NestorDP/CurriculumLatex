@@ -163,8 +163,11 @@
 %                Configuration for fonts
 %-------------------------------------------------------------------------------
 % Set the FontAwesome font to be up-to-date.
-\newfontfamily\FA[Path=\@fontdir]{FontAwesome}
-\newfontfamily\AI[Path=\@fontdir]{academicons}
+%\newfontfamily\FA[Path=\@fontdir]{FontAwesome}
+
+%\newfontfamily\AI[Path=\@fontdir]{academicons}
+
+
 % Set font for header (default is Roboto)
 \newfontfamily\headerfont[
   Path=\@fontdir,
@@ -469,7 +472,7 @@
         {}%
         {%
           \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
-          \href{http://\@lattes}{\aiLattesSquare\acvHeaderIconSep\@lattes}%
+          \href{http://\@lattes}{\aiLattes\acvHeaderIconSep\@lattes}%
         }% \aiLattes \faFileText 
       \ifthenelse{\isundefined{\@linkedin}}%
         {}%
@@ -481,7 +484,7 @@
         {}%
         {%
           \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
-          \href{https://github.com/\@github}{\faGithubSquare\acvHeaderIconSep\@github}%
+          \href{https://github.com/\@github}{\faGithub\acvHeaderIconSep\@github}%
         }%
       \ifthenelse{\isundefined{\@gitlab}}%
         {}%
