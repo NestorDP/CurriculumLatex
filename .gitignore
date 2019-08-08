@@ -1,0 +1,19 @@
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.lof
+*.log
+*.lot
+*.synctex.gz
+*.toc
+report.pdf
+/report.pdf
+.texpadtmp/*
+report.fdb_latexmk
+report.fls
+report.ilg
+report.ind
+
