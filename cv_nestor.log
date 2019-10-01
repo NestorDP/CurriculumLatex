@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.7.18)  30 SEP 2019 11:12
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.7.18)  1 OCT 2019 08:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -397,27 +397,6 @@ LaTeX Info: Redefining \- on input line 4015.
 . Defining command \liningnums with sig. 'm' on line 4114.
 .................................................
 ))
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-! fontspec error: "font-not-found"
-! 
-! The font "Academicons" cannot be found.
-! 
-! See the fontspec documentation for further information.
-! 
-! For immediate help type H <return>.
-!...............................................  
-                                                  
-l.13 
-     
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| A font might not be found for many reasons.
-|  Check the spelling, where the font is installed etc. etc.
-| 
-|  When in doubt, ask someone for help!
-|...............................................
-
 .................................................
 . fontspec info: "no-scripts"
 . 
@@ -439,48 +418,6 @@ l.13
 . 
 . Could not resolve font "Academicons/I" (it probably doesn't exist).
 .................................................
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-! fontspec error: "font-not-found"
-! 
-! The font "Academicons" cannot be found.
-! 
-! See the fontspec documentation for further information.
-! 
-! For immediate help type H <return>.
-!...............................................  
-                                                  
-l.13 
-     
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| A font might not be found for many reasons.
-|  Check the spelling, where the font is installed etc. etc.
-| 
-|  When in doubt, ask someone for help!
-|...............................................
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-! fontspec error: "font-not-found"
-! 
-! The font "Academicons" cannot be found.
-! 
-! See the fontspec documentation for further information.
-! 
-! For immediate help type H <return>.
-!...............................................  
-                                                  
-l.13 
-     
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| A font might not be found for many reasons.
-|  Check the spelling, where the font is installed etc. etc.
-| 
-|  When in doubt, ask someone for help!
-|...............................................
-
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -488,10 +425,11 @@ l.13
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
-. - 'normal' (m/n) with NFSS spec.: <->"Academicons"
-. - 'small caps'  (m/sc) with NFSS spec.: <->"Academicons"
+. - 'normal' (m/n) with NFSS spec.: <->"Academicons/OT"
+. - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \col@sep=\dimen138
 \ar@mcellbox=\box41
@@ -1696,20 +1634,6 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.99991pt on input line 84.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99992pt on input line 84.
-
-! Font TU/Academicons(0)/m/n/6.8=Academicons at 6.8pt not loadable: Metric (TFM
-) file or installed font not found.
-<to be read again> 
-                   relax 
-l.84 
-     
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-Missing character: There is no  in font nullfont!
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 84.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/it' will be
@@ -1778,11 +1702,11 @@ Package rerunfilecheck Info: File `cv_nestor.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
- 38392 strings out of 492970
- 757850 string characters out of 6136052
- 966826 words of memory out of 5000000
- 41884 multiletter control sequences out of 15000+600000
- 534588 words of font info for 99 fonts, out of 8000000 for 9000
+ 38394 strings out of 492970
+ 757909 string characters out of 6136052
+ 966754 words of memory out of 5000000
+ 41883 multiletter control sequences out of 15000+600000
+ 534612 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,12n,89p,10395b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
 
