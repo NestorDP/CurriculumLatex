@@ -9,6 +9,7 @@
 *.lot
 *.synctex.gz
 *.toc
+*.out
 report.pdf
 /report.pdf
 .texpadtmp/*
