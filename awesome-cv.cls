@@ -163,9 +163,9 @@
 %                Configuration for fonts
 %-------------------------------------------------------------------------------
 % Set the FontAwesome font to be up-to-date.
-%\newfontfamily\FA[Path=\@fontdir]{FontAwesome}
+% \newfontfamily\FA[Path=\@fontdir]{FontAwesome}
 
-\newfontfamily\AI[Path=\@fontdir]{academicons}
+% \newfontfamily\AI[Path=\@fontdir]{academicons}
 
 
 % Set font for header (default is Roboto)
