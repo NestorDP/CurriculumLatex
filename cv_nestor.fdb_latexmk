@@ -1,12 +1,12 @@
 # Fdb version 3
-["xdvipdfmx"] 1658891476 "/home/nestor/repositorios/CurriculumLatex/cv_nestor.xdv" "/home/nestor/repositorios/CurriculumLatex/cv_nestor.pdf" "/home/nestor/repositorios/CurriculumLatex/cv_nestor" 1658891476
-  "/home/nestor/repositorios/CurriculumLatex/cv_nestor.xdv" 1658891476 78008 c91363e622051661dfa12e81a2145ff6 "xelatex"
+["xdvipdfmx"] 1658892266 "/home/nestor/repositorios/CurriculumLatex/cv_nestor.xdv" "/home/nestor/repositorios/CurriculumLatex/cv_nestor.pdf" "/home/nestor/repositorios/CurriculumLatex/cv_nestor" 1658892266
+  "/home/nestor/repositorios/CurriculumLatex/cv_nestor.xdv" 1658892266 78252 8546c4b9e75b01658b43c01672af6475 "xelatex"
   (generated)
   "/home/nestor/repositorios/CurriculumLatex/cv_nestor.pdf"
-["xelatex"] 1658891475 "/home/nestor/repositorios/CurriculumLatex/cv_nestor.tex" "/home/nestor/repositorios/CurriculumLatex/cv_nestor.xdv" "cv_nestor" 1658891476
+["xelatex"] 1658892265 "/home/nestor/repositorios/CurriculumLatex/cv_nestor.tex" "/home/nestor/repositorios/CurriculumLatex/cv_nestor.xdv" "cv_nestor" 1658892266
   "/etc/texmf/web2c/texmf.cnf" 1657482909 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/nestor/repositorios/CurriculumLatex/cv_nestor.aux" 1658891476 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
-  "/home/nestor/repositorios/CurriculumLatex/cv_nestor.tex" 1657747816 4215 de6696d89525271750729f72816d6d8d ""
+  "/home/nestor/repositorios/CurriculumLatex/cv_nestor.aux" 1658892266 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
+  "/home/nestor/repositorios/CurriculumLatex/cv_nestor.tex" 1658892260 4217 6abb1667c5e100c2f7b82c7748d946a4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -175,16 +175,16 @@
   "cv/competencias.tex" 1654891492 1530 d4393b25aa086c110e06fe5c23f19800 ""
   "cv/cursos.tex" 1654891492 1649 13dd02e5baaee1e2d286d043278b833c ""
   "cv/education.tex" 1658891461 2239 e34181139b87623355bce77f0ef72f4c ""
-  "cv/experience.tex" 1657748088 6790 45da9fe6d0056bfc42e8e8226f276d89 ""
+  "cv/experience.tex" 1658892094 6834 aba0bfd888c7ca1a1aa0683d986ca779 ""
   "cv/extracurricular.tex" 1654891492 3708 0291295e8b18f74ad43239c3d19fa38a ""
   "cv/idiomas.tex" 1654891492 1341 c352656ee7eb738617e2cdee757b9a75 ""
-  "cv_nestor.aux" 1658891476 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
-  "cv_nestor.out" 1658891476 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "cv_nestor.tex" 1657747816 4215 de6696d89525271750729f72816d6d8d ""
+  "cv_nestor.aux" 1658892266 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
+  "cv_nestor.out" 1658892266 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "cv_nestor.tex" 1658892260 4217 6abb1667c5e100c2f7b82c7748d946a4 ""
   (generated)
-  "cv_nestor.log"
+  "cv_nestor.out"
   "cv_nestor.aux"
+  "/home/nestor/repositorios/CurriculumLatex/cv_nestor.xdv"
+  "cv_nestor.log"
   "cv_nestor.xdv"
   "/home/nestor/repositorios/CurriculumLatex/cv_nestor.log"
-  "/home/nestor/repositorios/CurriculumLatex/cv_nestor.xdv"
-  "cv_nestor.out"
