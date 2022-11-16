@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1668600183 "/home/nestor/repositorios/CurriculumLatex/cv_nestor.tex" "/home/nestor/repositorios/CurriculumLatex/cv_nestor.pdf" "cv_nestor" 1668600183
+["pdflatex"] 1668600183 "/home/nestor/repositorios/CurriculumLatex/cv_nestor.tex" "/home/nestor/repositorios/CurriculumLatex/cv_nestor.pdf" "cv_nestor" 1668600297
   "/etc/texmf/web2c/texmf.cnf" 1657482909 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/nestor/repositorios/CurriculumLatex/cv_nestor.aux" 1668600183 8 a94a2480d3289e625eea47cd1b285758 ""
   "/home/nestor/repositorios/CurriculumLatex/cv_nestor.tex" 1668600015 4265 50ebd636059beb0d9a893f7eb93d6de6 ""
@@ -37,6 +37,6 @@
   "awesome-cv.cls" 1658925095 26327 4e01a8789e4f82b54472f2069329f9b7 ""
   "cv_nestor.tex" 1668600015 4265 50ebd636059beb0d9a893f7eb93d6de6 ""
   (generated)
-  "cv_nestor.log"
   "/home/nestor/repositorios/CurriculumLatex/cv_nestor.pdf"
+  "cv_nestor.log"
   "/home/nestor/repositorios/CurriculumLatex/cv_nestor.log"
