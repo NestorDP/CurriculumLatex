@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1668600183 "/home/nestor/repositorios/CurriculumLatex/cv_nestor.tex" "/home/nestor/repositorios/CurriculumLatex/cv_nestor.pdf" "cv_nestor" 1668600297
+["pdflatex"] 1668600463 "/home/nestor/repositorios/CurriculumLatex/cv_nestor.tex" "/home/nestor/repositorios/CurriculumLatex/cv_nestor.pdf" "cv_nestor" 1668600593
   "/etc/texmf/web2c/texmf.cnf" 1657482909 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/nestor/repositorios/CurriculumLatex/cv_nestor.aux" 1668600183 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/nestor/repositorios/CurriculumLatex/cv_nestor.aux" 1668600463 8 a94a2480d3289e625eea47cd1b285758 ""
   "/home/nestor/repositorios/CurriculumLatex/cv_nestor.tex" 1668600015 4265 50ebd636059beb0d9a893f7eb93d6de6 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -37,6 +37,6 @@
   "awesome-cv.cls" 1658925095 26327 4e01a8789e4f82b54472f2069329f9b7 ""
   "cv_nestor.tex" 1668600015 4265 50ebd636059beb0d9a893f7eb93d6de6 ""
   (generated)
-  "/home/nestor/repositorios/CurriculumLatex/cv_nestor.pdf"
   "cv_nestor.log"
   "/home/nestor/repositorios/CurriculumLatex/cv_nestor.log"
+  "/home/nestor/repositorios/CurriculumLatex/cv_nestor.pdf"
