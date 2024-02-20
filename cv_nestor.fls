@@ -614,9 +614,9 @@ INPUT ./cv/education.tex
 INPUT ./cv/education.tex
 INPUT ./cv/experience.tex
 INPUT ./cv/experience.tex
+INPUT ./cv/idiomas.tex
+INPUT ./cv/idiomas.tex
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT ./cv/idiomas.tex
-INPUT ./cv/idiomas.tex
 INPUT ./cv/cursos.tex
 INPUT ./cv/cursos.tex
 INPUT ./cv/extracurricular.tex
