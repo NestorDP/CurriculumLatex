@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1708440702 "/home/nestor/repositories/CurriculumLatex/cv_nestor.tex" "cv_nestor.pdf" "cv_nestor" 1708440708
+["lualatex"] 1708461629 "/home/nestor/repositories/CurriculumLatex/cv_nestor.tex" "cv_nestor.pdf" "cv_nestor" 1708461634
   "/etc/fonts/conf.d/10-antialias.conf" 1648043558 225 3629dcc380ac8c5b0306febc33b5667b ""
   "/etc/fonts/conf.d/10-hinting-slight.conf" 1648043558 696 690acea9572bf68b0ef975636002e4f3 ""
   "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf" 1648043558 2228 7bf8b372085774e6cbdae99235624440 ""
@@ -144,8 +144,8 @@
   "/home/nestor/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-regularit.luc" 1708439971 400336 0b7e7793881ba2e57997b176d89b838f ""
   "/home/nestor/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-semibold.luc" 1708439977 661372 09c583729493669483d8cb091562c486 ""
   "/home/nestor/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-semiboldit.luc" 1708439980 407763 1ca0b451ef74004e5dd815cb3f4cfc25 ""
-  "/home/nestor/.texlive2021/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.lua" 1708440706 160 04d02ec91493801b157a11b45571b8d6 "lualatex"
-  "/home/nestor/.texlive2021/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1708440706 240 a1e4e8e30eef7e7dc7edd23428187f3f "lualatex"
+  "/home/nestor/.texlive2021/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.lua" 1708461633 160 04d02ec91493801b157a11b45571b8d6 "lualatex"
+  "/home/nestor/.texlive2021/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1708461633 240 a1e4e8e30eef7e7dc7edd23428187f3f "lualatex"
   "/home/nestor/.texlive2021/texmf-var/luatex-cache/generic/names/luaotfload-names.luc" 1708439965 1668976 d074190407382c20147a417af68d54a5 ""
   "/home/nestor/repositories/CurriculumLatex/cv_nestor.tex" 1708440702 4191 b67dedb140220fc52b9557bd0401b4f6 ""
   "/usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf" 1587936753 298076 b23705a4082d8c84d2533a37e9fb0811 ""
@@ -370,12 +370,12 @@
   "cv/cursos.tex" 1703732874 1594 e6519c73f935aff293f3b2b049ebb064 ""
   "cv/education.tex" 1708440061 2443 27714d1907a5d97468486e298c83937e ""
   "cv/experience.tex" 1708440552 5813 665951d1c5a11a0b3a1c3c8be859f675 ""
-  "cv/extracurricular.tex" 1703732874 4062 7726f3bfc0387f7a581f3e2e7a2f4610 ""
+  "cv/extracurricular.tex" 1708461620 3601 a01f11855bcf0013113acbf6b32ea9c1 ""
   "cv/honors.tex" 1703732874 1564 473ff91e500db66e013184d51e5df917 ""
   "cv/idiomas.tex" 1703732874 1338 5438f3b1da1d5ab1abde399604388c4a ""
   "cv/presentation.tex" 1703732874 1253 fd43f681c688e1427b012eeba5c1271b ""
-  "cv_nestor.aux" 1708440707 686 470fdebd29f279999e89f3533b8c7bc8 "lualatex"
-  "cv_nestor.out" 1708440706 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "cv_nestor.aux" 1708461634 686 470fdebd29f279999e89f3533b8c7bc8 "lualatex"
+  "cv_nestor.out" 1708461633 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
   "cv_nestor.tex" 1708440702 4191 b67dedb140220fc52b9557bd0401b4f6 ""
   "fonts/Roboto-Bold.ttf" 1703732874 163448 36b5bab58a18b9c924861a4ccbf1a790 ""
   "fonts/Roboto-Italic.ttf" 1703732874 160736 93b13a58dedeebe519846555a543523b ""
