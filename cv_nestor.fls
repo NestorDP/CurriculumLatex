@@ -376,8 +376,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/academicons/tuacademicons.fd
 INPUT /home/nestor/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/academicons.luc
 INPUT ./cv/education.tex
 INPUT ./cv/experience.tex
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./cv/idiomas.tex
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./cv/cursos.tex
 INPUT ./cv/extracurricular.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
