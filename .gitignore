@@ -13,8 +13,9 @@
 report.pdf
 /report.pdf
 .texpadtmp/*
-report.fdb_latexmk
+*.fdb_latexmk
 report.fls
 report.ilg
 report.ind
+
 
