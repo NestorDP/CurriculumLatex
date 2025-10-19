@@ -324,9 +324,6 @@ INPUT ./cv/extracurricular.tex
 INPUT ./cv/extracurricular.tex
 INPUT cv/extracurricular.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
-INPUT ./cv/competencias.tex
-INPUT ./cv/competencias.tex
-INPUT cv/competencias.tex
 INPUT ./cv/presentation.tex
 INPUT ./cv/presentation.tex
 INPUT cv/presentation.tex
